@@ -43,6 +43,7 @@ O repositório contém as matrizes de contagens simuladas, tabelas de métricas 
     ├── Metricas_benchmark_dissertacao.rds                            # Lista consolidada com todas as tabelas de avaliação
     ├── Comparacao_final_metricas.csv                                 # Tabela final do benchmark com as configurações finais (PCA vs UMAP vs PHATE)
     └── Escalabilidade_metricas.csv                                   # Tabela com tempos e eficiência por número de células
+```
 
 ---
 
