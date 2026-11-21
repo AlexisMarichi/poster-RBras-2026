@@ -1,3 +1,5 @@
+<div align="justify">
+    
 # poster-RBras-2026
 Dados e códigos do pôster comparativo de redução de dimensionalidade em scRNA-seq - 70ª RBras / IMECC / UNICAMP
 
@@ -17,8 +19,10 @@ O repositório contém as matrizes de contagens simuladas, tabelas de métricas 
 
 ---
 
-## 2. Estrutura do Repositório
-├── README.txt
+</div>
+
+```text
+├── README.md
 ├── Scripts/
 │   ├── Amostragem_estratificada.py                                   # Script Python para amostragem estratificada do atlas .h5ad
 │   ├── Simulação_grupos.R                                            # Simulação de populações celulares discretas
